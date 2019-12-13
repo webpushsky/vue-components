@@ -22,15 +22,12 @@ files-tree
 
 # 移动端城市滚动选择
 
-![Image](./static/images/city-select.png)
-![image](https://github.com/webpushsky/vue-components/blob/master/static/images/city-select.png)
+![Image text](https://github.com/webpushsky/vue-components/blob/master/static/images/city-select.png)
 
 # 移动端酒店日期选择日历
 
-![Image](./static/images/hotel-calendar.png)
-![image](https://github.com/webpushsky/vue-components/blob/master/static/images/hotel-calendar.png)
+![Image text](https://github.com/webpushsky/vue-components/blob/master/static/images/hotel-calendar.png)
 
 # 移动端日期按月选择
 
-![Image](./static/images/calendar.png)
-![image](https://github.com/webpushsky/vue-components/blob/master/static/images/calendar.png)
+![Image text](https://github.com/webpushsky/vue-components/blob/master/static/images/calendar.png)
